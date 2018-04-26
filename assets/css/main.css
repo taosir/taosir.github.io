@@ -9,7 +9,7 @@ a:focus{color:#7b7b7b;text-decoration:none;outline:0;}
 a:before,
 a:after{-webkit-transition:color 0.1s ease-in, background 0.1s ease-in;-moz-transition:color 0.1s ease-in, background 0.1s ease-in;-ms-transition:color 0.1s ease-in, background 0.1s ease-in;-o-transition:color 0.1s ease-in, background 0.1s ease-in;transition:color 0.1s ease-in, background 0.1s ease-in;}
 hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}
-#section-topbar{position:fixed;top:0;left:0;right:0;z-index:10000;overflow:visible;font:normal 16px/24px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;border-bottom:1px solid #2c3e50;}
+#section-topbar{position:static;top:0;left:0;right:0;z-index:10000;overflow:visible;font:normal 16px/24px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;border-bottom:1px solid #2c3e50;}
 #section-topbar a{color:#000;}
 #topbar-inner{background:#f8f8f8;line-height:0;text-align:center;}
 #section-topbar ul#nav{display:inline-block;position:relative;margin:0;padding:0;zoom:1;*display:inline;}
