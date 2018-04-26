@@ -1,5 +1,5 @@
 # [www.taosir.top](http://www.taosir.top/)
-Personal Homepage
-![home_view](https://github.com/taosir/taosir.github.io/tree/master/assets/img/homepage.png)<br>
+Personal Homepage <br>
+![home_view](https://github.com/taosir/taosir.github.io/tree/master/assets/img/homepage.jpg)<br>
 
 
